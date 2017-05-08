@@ -1,0 +1,312 @@
+*** This node ***
+ThisNode :Index 1 Count 999.907838
+	neuron
+	social
+	breast
+	infection
+*** Parent node ***
+No parent
+*** Child nodes ***
+Child 1 :Index 21 Count 999.853486
+	neuron
+	social
+	breast
+	infection
+Child 2 :Index 22 Count 0.030425
+	pain
+	bladder
+	social
+	hepatitis
+Child 3 :Index 23 Count 0.033970
+	intensity
+	initiation
+	staining
+	metastatic
+*** This node ***
+ThisNode :Index 2 Count 0.025404
+	heart
+	suppression
+	lesion
+	team
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 3 Count 0.023631
+	sexual
+	kinase
+	item
+	social
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 4 Count 0.021564
+	kinase
+	rice
+	artery
+	online
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 5 Count 0.022745
+	toxicity
+	mg_kg
+	urinary
+	kidney
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 6 Count 0.019791
+	speech
+	reconstruction
+	colorectal
+	sleep
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 7 Count 0.018905
+	compound
+	physician
+	dataset
+	lipid
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 8 Count 0.015360
+	breast
+	community
+	marrow
+	epithelial
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 9 Count 0.012997
+	enzyme
+	delivery
+	injury
+	pelvic
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 10 Count 0.013293
+	illness
+	cognitive
+	mother
+	grade
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 11 Count 0.018905
+	infection
+	recurrence
+	particle
+	residue
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 12 Count 0.015360
+	dietary
+	resistance
+	plate
+	mrna
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 13 Count 0.014474
+	nanoparticle
+	muscle
+	untreated
+	random
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 14 Count 0.014474
+	syndrome
+	apoptosis
+	mortality
+	liver
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 15 Count 0.019200
+	surgical
+	node
+	diabetes
+	clinic
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 16 Count 0.016542
+	viral
+	load
+	interview
+	melanoma
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 17 Count 0.015065
+	renal
+	toxicity
+	lung
+	policy
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 18 Count 0.007089
+	food
+	retention
+	device
+	stimulation
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 19 Count 0.015656
+	virus
+	diabetes
+	session
+	glucose
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 20 Count 0.012111
+	grade
+	instrument
+	strain
+	language
+*** Parent node ***
+No parent
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 21 Count 999.853486
+	neuron
+	social
+	breast
+	infection
+*** Parent node ***
+Parent :Index 1 Count 999.907838
+	neuron
+	social
+	breast
+	infection
+*** Child nodes ***
+Child 1 :Index 24 Count 0.100698
+	neuron
+	social
+	breast
+	infection
+Child 2 :Index 25 Count 0.000000
+	illustrate
+	tree
+	extension
+	younger
+Child 3 :Index 26 Count 0.000000
+	quartile
+	tobacco
+	localized
+	researcher
+*** This node ***
+ThisNode :Index 22 Count 0.030425
+	pain
+	bladder
+	social
+	hepatitis
+*** Parent node ***
+Parent :Index 1 Count 999.907838
+	neuron
+	social
+	breast
+	infection
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 23 Count 0.033970
+	intensity
+	initiation
+	staining
+	metastatic
+*** Parent node ***
+Parent :Index 1 Count 999.907838
+	neuron
+	social
+	breast
+	infection
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 24 Count 0.100698
+	neuron
+	social
+	breast
+	infection
+*** Parent node ***
+Parent :Index 21 Count 999.853486
+	neuron
+	social
+	breast
+	infection
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 25 Count 0.000000
+	illustrate
+	tree
+	extension
+	younger
+*** Parent node ***
+Parent :Index 21 Count 999.853486
+	neuron
+	social
+	breast
+	infection
+*** Child nodes ***
+No children
+*** This node ***
+ThisNode :Index 26 Count 0.000000
+	quartile
+	tobacco
+	localized
+	researcher
+*** Parent node ***
+Parent :Index 21 Count 999.853486
+	neuron
+	social
+	breast
+	infection
+*** Child nodes ***
+No children
