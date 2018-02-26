@@ -1,1 +1,20 @@
-hi this is readme for comp5421
+<h4>Ways to use executable</h4>
+<p>
+Load an image.</br>
+<b>Right mouse</b> - for first seed and following seeds. </br>
+Enter - finish the current contour.</br>
+Ctrl+Enter - finish the current contour as closed.</br>
+Backspace - when scissoring, delete the last seed; otherwise, delete selected contour.</br>
+Select a contour by moving onto it. Selected contour is red, un-selected ones are green.</br>
+</p>
+
+<h4>Structure of the code</h4>
+<p>
+The tools used: C++, FLTK, OpenGL.<br>
+The code is built on top of skeleton code given for comp4411<br>
+We have djkstra(.h, .cpp) helper functions for building path trees given seed and all other rutines related to dijkstra algorithm.<br>
+We have seed(.h, .cpp) class to maintain lines drawen to generate contour/mask for saving, during restoring image when backspace is pressed, and to restore images during zooming in/out.<br>
+PointBrush.cpp - handles drawing, backspaces, enter, enter+ctrl by maintaining data structures<br>
+PaintView.cpp - actually catches events and calls Pointbrush<br>
+</p>
+
