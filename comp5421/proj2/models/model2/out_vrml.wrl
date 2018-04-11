@@ -1,0 +1,353 @@
+#VRML V2.0 utf8
+
+	
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warpTrGif.gif"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 27 174 50,
+						 33 37 50,
+						 33 37 174,
+						 27 174 172,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp1.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 200 52,
+						 0 174 50,
+						 50 181 50,
+						 45 200 52,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp2.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 37 50,
+						 0 0 50,
+						 50 0 50,
+						 50 28 50,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp3.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 174 50,
+						 0 37 50,
+						 33 37 50,
+						 27 174 50,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp4.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 0 0,
+						 50 0 0,
+						 50 0 50,
+						 0 0 50,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp5.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 200 0,
+						 0 175 0,
+						 0 174 50,
+						 0 200 52,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp6.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 175 0,
+						 0 133 0,
+						 0 132 50,
+						 0 174 50,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp7.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 133 0,
+						 0 73 0,
+						 0 71 50,
+						 0 132 50,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp8.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 73 0,
+						 0 33 0,
+						 0 37 50,
+						 0 71 50,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
+			Shape {
+			 appearance Appearance {
+				 material Material { }
+				 texture ImageTexture {
+					 url "warp9.jpg"
+				 }
+			 }
+			 geometry IndexedFaceSet {
+				 coord Coordinate {
+					 point [
+						 0 33 0,
+						 0 0 0,
+						 0 0 50,
+						 0 37 50,
+					 ]
+				 }
+				 coordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 texCoord TextureCoordinate {
+					 point [
+						 0 0,
+						 1 0,
+						 1 1,
+						 0 1,
+					 ]
+				 }
+				 texCoordIndex [
+					 0, 1, 2, 3, -1,
+				 ]
+				 solid FALSE
+			 }
+			}
+
+		
