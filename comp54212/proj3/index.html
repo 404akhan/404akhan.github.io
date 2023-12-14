@@ -1,0 +1,30 @@
+<h1>Project 3 - Single View Modelling</h1> <br>
+
+Reference: [1] http://www.cs.cmu.edu/~ph/869/papers/Criminisi99.pdf  <br><br>
+
+<b>Images (1,2) </b><br>
+Find source_images/new_created_views/processing_stage <a href="artifacts/index.html">here</a> <br><br>
+
+<img src="artifacts/30595249_1710306495754547_2745938292171079680_o.jpg" height="315">
+<img src="artifacts/30581560_1710306635754533_515221734207520768_o.jpg" height="315">
+<img src="artifacts/30581719_1710306762421187_5850211585657667584_o.jpg" height="315">
+
+<br>
+<a href="artifacts/index.html">MORE</a>
+
+<br><br><br>
+<b>Models (3,4,5) </b><br>
+Two models (and their texture maps) <a href="models/model1.zip">model1</a>, <a href="models/model2.zip">model2</a>, and sample texture map <a href="models/model2/warpTrGif.gif">here</a> <br><br>
+
+<b>Description/Analysis of results (6)</b><br>
+1. Have a photo <br><br>
+2. Specify all points to be used in the following steps (nodes of a model...)<br><br>
+3. Having in mind directions of x, y, z axis, choose points for lines in that diretion. Find intersection (vanishing points) with Bob Collin's method.<br><br>
+4. Specify origin; points in x, y, z directions; and distances from origin to these 3 points. Given this information find alphas (equation 4 in [1]) for all three directions.<br><br>
+5. Knowing coordinates of 4 above defined points and alphas, we may find distance between points p1, p2 given that line (p1, p2) parallel to x or y or z axis (by equation 4 in [1]). If we choose p1 to be the point of known coordinates, assuming the direction (p1, p2) also known, we may find coordinates of p2. That's how we get to know position of all points given 4 initial points. User is asked to input this information for each point with unknown yet coordinates.<br><br>
+6. Given that we know all 3d positions after 5th step, we start asking for quadrilaterals for which texture map is needed to be found.<br><br>
+7. After step 6 we have all the information to build VRML model. End. <br><br>
+8. Analysis. Images of models show not a bad result. Some error accumulation for coordinates is noticed when finding coordinates from previously estimated coordinates (after few steps, we get some error). <br><br>
+
+<b>Possible extensions (7)</b><br>
+Get photos of back views to find texture mapping for back side, to create a full model.  <br><br>
