@@ -1,0 +1,5 @@
+2000 words and n-gram parameter is 2
+
+Average compactness score=0.263895
+Average coherence score=-5.542941
+Per-document log-likelihood =  -492.1202027239811
